@@ -5,7 +5,7 @@ import { Typography } from "@mui/material";
 
 const HomePage = () => {
   const image =
-    "http://wallpapers-image.ru/1920x1080/mountains/wallpapers/mountains-wallpapers-1920x1080-00019.jpg";
+    "/images/mountains-wallpapers-1920x1080-00019.jpeg";
 
   return (
     <>
