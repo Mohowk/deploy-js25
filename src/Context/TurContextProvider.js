@@ -4,8 +4,8 @@ import axios from 'axios';
 import { useLocation, useNavigate} from 'react-router-dom';
 
 export const turContext = createContext(); // облако
-const API = "http://localhost:8000/turs";
-const ORDERAPI = "http://localhost:8000/orders";
+const API = "https://hackaton-js25.herokuapp.com/turs";
+const ORDERAPI = "https://hackaton-js25.herokuapp.com/orders";
 
 
 const INIT_STATE = {
